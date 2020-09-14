@@ -1,1 +1,1 @@
-# https://Shadowbor.github.io/rsschool-cv
+# https://Shadowbor.github.io/rsschool-cv/cv
