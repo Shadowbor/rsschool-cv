@@ -1,2 +1,3 @@
 # https://Shadowbor.github.io/rsschool-cv/cv
-$ git branch <gh-pages>
+$ git branch <master>
+  $git branch <pg-pages>
